@@ -6,14 +6,14 @@ I'm a standalone programmer aspiring to escape the mind-blocks I seem to encount
 > **HOT TIP:** Don't look at my past python files... for your own personal safety.
 
 ### A little 'bout me :point_left:
-- :bust_in_silhouette: [he/him], true blue Aussie :)
+- :bust_in_silhouette: [he/him], also a true blue Aussie :)
 - :speech_balloon: Just a college student trying to build up a bit of a portfolio. Probably going into IT after graduating?
-- :computer: Currently focusing on Python (Discord) and Java / Kotlin (Game Mod / Android)
+- :computer: Currently focusing on Python (Discord, Commandline) and Java / Kotlin (Game Mod / Android)
 - :mailbox: I'm almost always available on Discord, though I also have other social medias I sometimes use (see below).
 
 ### Social Media :calling:
 - :bird: **Twitter:** [here](https://twitter.com/SimplyA49204902)
-- :speaker: **Discord:** [here](https://discord.gg/VBNjYqe) or add ThatComputerNerd#6825.
+- :speaker: **Discord:** [here](https://discord.gg/VBNjYqe) or add ThatComputerNerd#6825. (heads up, I don't often accept friends unless they have a mutual server, so click the first link before friending :) )
 - :video_game: **Steam**: [here](https://steamcommunity.com/id/simply-amazing)
 - :shit: **Reddit**: [here](https://www.reddit.com/user/TechnoBob9)
 
