@@ -5,7 +5,7 @@ I'm ThatComputerNerd / Jonno, a self-taught, standalone programmer aspiring to e
 
 ### A little 'bout me :point_left:
 - :bust_in_silhouette: male, also living in the "upside down" <img src="https://1.bp.blogspot.com/-xv6hObo_xcI/YDBXp3WOKZI/AAAAAAAA3u8/9Yl2zkkcPPYxoPNRSzXm-46GAu-b_SYqwCLcBGAsYHQ/s0/Flag_of_Australia.gif" height="20">
-- :speech_balloon: I'm a year 12 student suffering through the HSC here in NSW, Australia. Uni is the next hit destination where I'll probably be doing a Bachelor of Information Technology majoring in Cyber Security or Computer Science with Cyber Securitry minors (depending on whether I end up going to QUT or UTS).
+- :speech_balloon: I'm a year 12 student suffering through the HSC here in NSW, Australia. Uni is the next hit destination where I'll probably be doing a Bachelor of Information Technology majoring in Cyber Security or Computer Science with Cyber Security minors (depending on whether I end up going to QUT or UTS).
 - :computer: Looking into more cyber security related work nowadays, but still actively using C# and XAML to build the app I intend to submit for my Major Design Project. See [VOWs](https://github.com/AmAComputerNerd/VOWs) to check on my work.
 - :mailbox: I'm almost always available on Discord, though I also have other social medias I sometimes use (see below). I'm planning on releasing a website soon which will serve as a main hub of formal conversation, though Discord will still remain as the go-to place to hit me up for a casual convo.
 -----
