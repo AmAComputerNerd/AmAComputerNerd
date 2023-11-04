@@ -11,10 +11,12 @@ I'm ThatComputerNerd / Jonno, a self-taught and motivated programmer aspiring to
 -----
 ## Programming Languages :man_technologist:
 [![My Skills](https://skillicons.dev/icons?i=cs,css,git,html,java,kotlin,py,sqlite&perline=5)](https://www.youtube.com/watch?v=wZdfyQJ40nQ)
+
 **I have previous experience in all of these languages (particularly Python and Java) but am only actively working in C# and XAML (no icon for that one 😞) at the moment.**
 ### -=-=-
 ## IDEs & Related Skills :desktop_computer:
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,bots,eclipse,github,git,heroku,idea,visualstudio,vscode&perline=5)](https://www.youtube.com/watch?v=9-yHEhKWh7w)
+
 **I primarily utilise VS (and VS Code), alongside my main Java IDE of IntelliJ IDEA. Any other IDEs I use are for more specialised scenarios (i.e., Android Studio specifically for Android development).**
 -----
 ### Social Media :calling:
