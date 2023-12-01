@@ -11,11 +11,11 @@ I'm **Jonathon**, also known online as **ThatComputerNerd** (or similar variatio
 -----
 ## Programming Languages :man_technologist:
 [![My Skills](https://skillicons.dev/icons?i=cs,css,git,html,java,kotlin,py,sqlite&perline=5)](https://www.youtube.com/watch?v=wZdfyQJ40nQ)
-##### I have previous experience in all of these languages (particularly Python and Java). Recent projects have me working in all of these languages actively right now and this is especially the case for C# (and XAML) with the revitalisation of my development work on [VOWs](https://www.github.com/AmAComputerNerd/VOWs) as a personal project.
+#### I have previous experience in all of these languages (particularly Python and Java). Recent projects have me working in all of these languages actively right now and this is especially the case for C# (and XAML) with the revitalisation of my development work on [VOWs](https://www.github.com/AmAComputerNerd/VOWs) as a personal project.
 ### -=-=-
 ## IDEs & Related Skills :desktop_computer:
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,bots,eclipse,github,git,heroku,idea,visualstudio,vscode&perline=5)](https://www.youtube.com/watch?v=9-yHEhKWh7w)
-##### I primarily utilise VS (and VS Code), alongside my main Java IDE of IntelliJ IDEA. Any other IDEs I use are for more specialised scenarios (i.e., Android Studio specifically for Android development).
+#### I primarily utilise VS (and VS Code), alongside my main Java IDE of IntelliJ IDEA. Any other IDEs I use are for more specialised scenarios (i.e., Android Studio specifically for Android development).
 -----
 ### Social Media :calling:
 - :speaker: **Discord:** username is *thatcomputernerd*. An enticing message is a good way to start the conversation! (plus, helps me weed out the bots from the humans 😁)
