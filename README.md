@@ -12,7 +12,7 @@ I'm **Jonathon**, also known online as **ThatComputerNerd** (or similar variatio
 > **Disclaimer:** I do not speak on behalf of my employer. Any and all views I may express are my own personal opinions and do not reflect that of my employer, nor do my employer's views and opinions necessarily reflect my own.
 -----
 ## Programming Languages :man_technologist:
-[![My Skills](https://skillicons.dev/icons?i=cs,css,git,html,java,kotlin,py,sqlite&perline=5)](https://www.youtube.com/watch?v=wZdfyQJ40nQ)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,css,git,html,java,kotlin,py,sqlite&perline=5)](https://www.youtube.com/watch?v=wZdfyQJ40nQ)
 #### I have previous experience in all of these languages (particularly Python and Java). Recent projects have me working in all of these languages actively right now and this is especially the case for C# (and XAML) with the revitalisation of my development work on [VOWs](https://www.github.com/AmAComputerNerd/VOWs) as a personal project.
 ### -=-=-
 ## IDEs & Related Skills :desktop_computer:
