@@ -1,28 +1,28 @@
-# G'day all 👋
-I'm **Jonathon**, also known online as **ThatComputerNerd** (or similar variations, if my username isn't available). I'm a self-taught and motivated programmer, now working 4-5 days a week at WiseTech Global as part of their Earn & Learn program! While I won't have the same time as I used to have (with university and work sapping most of the week away), nevertheless, I may occasionally manage to pull through with a complete project, most of which I'll end up posting here :expressionless:.
+# G'day from the Land Down Under! 👋
+I'm **Jonathon**, better known online as **ThatComputerNerd** (or some variation if the username is taken - GitHub, I'm looking at you 😆). I am a passionate, primarily self-taught programmer with a love for all things tech. My journey in programming began with languages like Java and Python, where I've learned through countless projects. Currently, I'm working as an Associate Software Engineer at WiseTech Global under their innovative Earn & Learn program. I'm proud to be one of 52 students within the second ever cohort which started January 2024 and looking forward to getting to meet with and guide the next year's cohort! I've learned much about C#, SQL and Enterprise Software development in my time at WiseTech so far, and am eager to continue learning even more in the years ahead.
 
-> **Quick Note:** When it comes to the projects I have worked on, I seldom post them to GitHub until they have reached version 1.0 (in that they are functioning and completing their main purpose in a sense). I'm trying to change this habit moving forward, but it's important to note that I'm a **lot** more active than GitHub's charts suggest!
-
-### A little 'bout me :point_left:
-- :bust_in_silhouette: male, also living in the "upside down" <img src="https://1.bp.blogspot.com/-xv6hObo_xcI/YDBXp3WOKZI/AAAAAAAA3u8/9Yl2zkkcPPYxoPNRSzXm-46GAu-b_SYqwCLcBGAsYHQ/s0/Flag_of_Australia.gif" height="20">
-- :speech_balloon: I'm a first year university student at University of Technology Sydney, currently studying an accelerated Bachelor of Computing Science degree with my industry sponsor, WiseTech Global! I work for 4-5 days a week and attend uni in my spare time - may need to put some of these old projects on the backlog at this rate...
-- :computer: Currently returning to the classic projects to spice them up a bit, hence doing work in pretty much every language I've worked in previously (Python, Java, C#, etc.). Also started doing some cyber security stuff through [HackTheBox](https://www.hackthebox.com) (Gotta spice up my schedule somehow **¯\_(ツ)_/¯**). Will soon begin working on company projects too, though can't tell you much about those :3
-- :mailbox: I'm almost always available on Discord, though I also have other social medias I sometimes use (see below). I'm planning on releasing a website soon which will serve as a main hub of formal conversation, though Discord will still remain as the go-to place to hit me up for a casual convo.
-
-> **Disclaimer:** I do not speak on behalf of my employer. Any and all views I may express are my own personal opinions and do not reflect that of my employer, nor do my employer's views and opinions necessarily reflect my own.
+### A little about me! :point_left:
+- :bust_in_silhouette: I'm an 18-year-old male, born and living in what the Americans might call the "upside down" <img src="https://1.bp.blogspot.com/-xv6hObo_xcI/YDBXp3WOKZI/AAAAAAAA3u8/9Yl2zkkcPPYxoPNRSzXm-46GAu-b_SYqwCLcBGAsYHQ/s0/Flag_of_Australia.gif" height="11">
+- :speech_balloon: I'm currently juggling an accelerated, part-time Bachelor of Computing Science (IDeA) degree at UTS with full-time work at WiseTech Global. With a solid three years still ahead, I'm excited about the challenges and learning opportunities that will lie ahead!
+- :computer: Personal projects are on hold for now, thanks to the demands of work and uni. But I **do** have a backlog of ideas, so new content might be coming soon!
+- :mailbox: Want to connect? I'm almost always available on Discord, though I also have other social medias I sometimes use (see below). I'm planning on releasing a website soon which will serve as a main hub of formal conversation, though Discord will still remain as the go-to place to hit me up for a casual convo. I look forward to hearing from you!
 -----
 ## Programming Languages :man_technologist:
 [![My Skills](https://skillicons.dev/icons?i=c,cs,css,git,html,java,kotlin,py,sqlite&perline=5)](https://www.youtube.com/watch?v=wZdfyQJ40nQ)
-#### I have previous experience in all of these languages (particularly Python and Java). Recent projects have me working in all of these languages actively right now and this is especially the case for C# (and XAML) with the revitalisation of my development work on [VOWs](https://www.github.com/AmAComputerNerd/VOWs) as a personal project.
+#### I have worked with all of these languages in various capacities, whether as a personal project, educational project or as an enterprise-level project. Of these languages, I am most comfortable with Java, Python and C#, which I have a wealth of previous experience with and still actively use to this day. The other languages are tools in my kit but not a primary focus at this stage.
 ### -=-=-
 ## IDEs & Related Skills :desktop_computer:
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,bots,eclipse,github,git,heroku,idea,visualstudio,vscode&perline=5)](https://www.youtube.com/watch?v=9-yHEhKWh7w)
-#### I primarily utilise VS (and VS Code), alongside my main Java IDE of IntelliJ IDEA. Any other IDEs I use are for more specialised scenarios (i.e., Android Studio specifically for Android development).
+#### I use a load of different tools and IDEs in developing my projects. My main IDE of choice for is typically the JetBrains-equivalent product, but Microsoft's Visual Studio and Visual Studio Code are also frequently used 
+### -=-=-
+## Development Practices :hammer_and_wrench:
+#### I'm well-versed in several enterprise development practices like TDD, SOLID Principles and CI/CD, which are essential for keeping large projects organised, clean and efficient.
 -----
 ### Social Media :calling:
 - :speaker: **Discord:** username is *thatcomputernerd*. An enticing message is a good way to start the conversation! (plus, helps me weed out the bots from the humans 😁)
-- :page_facing_up: **Website:** Coming soon! (...you know when your parents say 'soon', but they really mean 'when we feel like it'? Seriously though, hopefully will get this done soon - work and development on other projects has me swamped right now 😔)
+- :page_facing_up: **Website:** Coming soon!
 - :video_game: **Steam**: [here](https://steamcommunity.com/id/thatpcnerd)
 - :shit: **Reddit**: [here](https://www.reddit.com/user/TechnoBob9)
 -----
+
 *Connection terminated (this is the end of the readme... for now).*
