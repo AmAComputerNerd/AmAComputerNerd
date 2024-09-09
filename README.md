@@ -1,4 +1,6 @@
-# G'day from the Land Down Under! 👋
+# G'day! 👋
+![Visitor Count](https://komarev.com/ghpvc/?username=ThatComputerNerd&color=blue)
+
 I'm **Jonathon**, better known online as **ThatComputerNerd** (or some variation if the username is taken - GitHub, I'm looking at you 😆). I am a passionate, primarily self-taught programmer with a love for all things tech. My journey in programming began with languages like Java and Python, where I've learned through countless projects. Currently, I'm working as an Associate Software Engineer at WiseTech Global under their innovative Earn & Learn program. I'm proud to be one of 52 students within the second ever cohort which started January 2024 and looking forward to getting to meet with and guide the next year's cohort! I've learned much about C#, SQL and Enterprise Software development in my time at WiseTech so far, and am eager to continue learning even more in the years ahead.
 
 ### A little about me! :point_left:
