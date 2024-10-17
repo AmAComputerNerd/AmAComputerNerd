@@ -14,7 +14,7 @@ I'm **Jonathon**, better known online as **ThatComputerNerd** (or some variation
 #### I have worked with all of these languages in various capacities, whether as a personal project, educational project or as an enterprise-level project. Of these languages, I am most comfortable with Java, Python and C#, which I have a wealth of previous experience with and still actively use to this day. The other languages are tools in my kit but not a primary focus at this stage.
 ### -=-=-
 ## IDEs & Related Skills :desktop_computer:
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,bots,eclipse,github,git,heroku,idea,visualstudio,vscode&perline=5)](https://www.youtube.com/watch?v=9-yHEhKWh7w)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,bots,eclipse,github,git,heroku,idea,visualstudio,vscode&perline=5)](https://www.youtube.com/watch?v=ArXmqEJDE8Y)
 #### I use a load of different tools and IDEs in developing my projects. My main IDE of choice for is typically the JetBrains-equivalent product, but Microsoft's Visual Studio and Visual Studio Code are also frequently used 
 ### -=-=-
 ## Development Practices :hammer_and_wrench:
