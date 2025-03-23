@@ -1,15 +1,15 @@
 # G'day! 👋
 ![Visitor Count](https://komarev.com/ghpvc/?username=AmAComputerNerd&color=blue)
 
-I'm **Jonathon**, better known online as **ThatComputerNerd** (or some variation if the username is taken - GitHub and Reddit being main examples of this 🙃). I am a passionate, primarily self-taught programmer with a love for tech. I began learning programming with projects in languages like Java and Python - the projects publicly available on here are just a few select examples of what I've done over the years.
+I'm **Jonathon**, better known online as **ThatComputerNerd** (or some variation if the username is taken - GitHub and Instagram being main examples of this 🙃). I am a passionate, primarily self-taught programmer with a love for tech. I began learning programming with projects in languages like Java and Python before progressing into C# through my work - the projects publicly available on here are just a few select examples of what I've done over the years.
 
-Currently, I'm working as an Associate Software Engineer at WiseTech Global under their innovative Earn & Learn program. I'm proud to be one of 52 students within the second ever cohort which started January 2024! Now half way through their Rotations program, which has me developing in 3 different teams over 1 and a half years before selecting a regular team to develop under, I've learned much about C#, Vue, MS SQL and Enterprise Software development so far and am eager to continue learning even more in the years ahead.
+Currently, I'm working as an Associate Software Engineer at WiseTech Global under their innovative Earn & Learn program. I'm proud to be one of 52 students within the second ever cohort which started January 2024! I'm now a permanent developer under the International Logistics: Carbon Emissions team, working with other talented developers in creating brand new features for our flagship product under the CargoWise Next upgrade. I've learned a lot throughout the course of the Rotations program, which had me rotating through 3 teams over 1 and a bit years to refine my skills and knowledge in different areas of programming. My last rotation especially had a big impact on me as I played a full-time 11-week role in training and tutoring the 2025 cohort of Earn & Learn to get students ready to begin their careers as knowledgable and effective associate software engineers within WiseTech!
 
 ### A little about me! :point_left:
-- :bust_in_silhouette: I'm a 19-year-old male, born and living in what the Americans might call the "upside down" <img src="https://1.bp.blogspot.com/-xv6hObo_xcI/YDBXp3WOKZI/AAAAAAAA3u8/9Yl2zkkcPPYxoPNRSzXm-46GAu-b_SYqwCLcBGAsYHQ/s0/Flag_of_Australia.gif" height="11">
-- :classical_building: I'm currently juggling an accelerated, part-time Bachelor of Computing Science (IDeA) degree at UTS with full-time work at WiseTech Global. One year down, three to go!
-- :computer: Personal projects are on hold for now, thanks to the demands of work and uni. But I **do** have a backlog of ideas, so new content might be coming soon! Most of it will probably be in C# since it's kind of become my main language now, but I've also got a couple of ideas for web projects which could be interesting 🤔
-- :mailbox: Want to connect? I'm almost always available on Discord, though I also have other social medias I sometimes use (see below).
+- :bust_in_silhouette: I'm a 19-year-old single male, born and living in what the Americans might call the "upside down" <img src="https://1.bp.blogspot.com/-xv6hObo_xcI/YDBXp3WOKZI/AAAAAAAA3u8/9Yl2zkkcPPYxoPNRSzXm-46GAu-b_SYqwCLcBGAsYHQ/s0/Flag_of_Australia.gif" height="11">
+- :classical_building: I'm currently juggling an accelerated, part-time Bachelor of Computing Science (IDeA) degree at UTS with full-time work at WiseTech Global, where I am achieving High Distinction grades for all classes thus far. One year down, three to go - hoping my efforts continue to pay off!
+- :computer: Personal projects are on hold for now, thanks to the demands of work and uni. But I **do** have a backlog of ideas, so new content might be coming soon! Most of it will probably be in C# since it's kind of become my main language now, but I've also got a couple of ideas for web projects which could be interesting 🤔. All that being said, my friends and I are thinking of developing a train app soon for Android - certainly has the potential to be an interesting project when it goes public 😁!
+- :mailbox: Want to connect? I'm almost always available on Discord and LinkedIn, though I also have other social medias I sometimes use (see below).
 -----
 ## Programming Languages :man_technologist:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,css,dotnet,git,html,java,kotlin,py,sqlite&perline=7)](https://www.youtube.com/watch?v=wZdfyQJ40nQ)
@@ -26,7 +26,7 @@ Currently, I'm working as an Associate Software Engineer at WiseTech Global unde
 - :speaker: **Discord:** username is *thatcomputernerd*. An enticing message is a good way to start the conversation! (plus, helps me weed out the bots from the humans 😊)
 - :page_facing_up: **LinkedIn:** [here](https://www.linkedin.com/in/jonathonthomson/)
 - :video_game: **Steam**: [here](https://steamcommunity.com/id/thatpcnerd)
-- :shit: **Reddit**: [here](https://www.reddit.com/user/TechnoBob9)
+- :camera_flash: **Instagram**: [here](https://www.instagram.com/thatpcnerd)
 -----
 
 *Connection terminated (this is the end of the readme... for now).*
